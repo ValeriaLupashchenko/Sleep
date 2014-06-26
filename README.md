@@ -1,7 +1,13 @@
 SleepCalculator
 ===============
 
-calculates your sleep cycles and adds buttons to quickly set the alarm
+This is an Android app that calculates your sleep cycles and adds buttons to quickly set the alarm.
+Created by Bo Warren
+License: GPLv3 - See the 'LICENSE' file for terms and conditions.
+
+Installation:
+	download the apk here: https://github.com/bhwarren/SleepCalculator/blob/master/bin/SleepCalculator.apk?raw=true
+	install it onto your android using an app like "Apk Installer" 
 
 
 ----------- v0.8 ----------------
@@ -14,3 +20,6 @@ calculates your sleep cycles and adds buttons to quickly set the alarm
 
 ----------- Future changes ------------------
 - syncrhonize timepickers 
+- add logo
+- add info and license to menu
+- add setting to change how quickly you fall asleep to menu
